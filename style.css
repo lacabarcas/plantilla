@@ -1,0 +1,42 @@
+element.style {
+}
+.w3-image {
+    max-width: 100%;
+    height: auto;
+}
+img {
+    vertical-align: middle;
+}
+img {
+    border-style: none;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+img{
+    width: 1500px;
+    aspect-ratio: auto 1500 / 800;
+    height: 800px;
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.w3-wide {
+    letter-spacing: 4px;
+}
+html, body {
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
